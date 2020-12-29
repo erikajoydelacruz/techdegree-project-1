@@ -62,7 +62,7 @@ nav {
 
 header {
   text-align: center;
-  background: url('images/city.jpg') no-repeat top center;
+  background: url('images/sf.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -132,6 +132,15 @@ h2{
 
 .skills li:nth-child(odd) {
   background: #a0561f;
+}
+
+.images{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+    display: block;
+    margin: auto;
 }
 
 footer {
